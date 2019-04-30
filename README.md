@@ -1,3 +1,3 @@
 # SpintroUI
 Spniaker training
-Test trigger
+Test trigger 2
